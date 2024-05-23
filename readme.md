@@ -12,10 +12,7 @@
 
   <div align="center">
     <a href="https://the-wild-oasis-i7mu.vercel.app/dashboard">View Demo</a>
-    •
-   
-  
-    <a href="https://github.com/Sharanupatil8/the-wild-oasis/pulls">Request Feature</a>
+
   </div>
 
   <hr>
