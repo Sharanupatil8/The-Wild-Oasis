@@ -6,14 +6,11 @@
 
   <h3>
     <a href="https://the-wild-oasis-i7mu.vercel.app/dashboard">
-      <strong>Demo Website</strong>
+      <strong>Demo App</strong>
     </a>
   </h3>
 
-  <div align="center">
-    <a href="https://the-wild-oasis-i7mu.vercel.app/dashboard">View Demo</a>
 
-  </div>
 
   <hr>
 
