@@ -5,17 +5,17 @@
   <h2>The Wild Oasis</h2>
 
   <h3>
-    <a href="https://the-wild-oasis-alamin.vercel.app">
+    <a href="https://the-wild-oasis-i7mu.vercel.app/dashboard">
       <strong>Demo Website</strong>
     </a>
   </h3>
 
   <div align="center">
-    <a href="https://the-wild-oasis-alamin.vercel.app">View Demo</a>
+    <a href="https://the-wild-oasis-i7mu.vercel.app/dashboard">View Demo</a>
     •
-    <a href="https://github.com/CodePapa360/The-Wild-Oasis/issues">Report Bug</a>
-    •
-    <a href="https://github.com/CodePapa360/The-Wild-Oasis/pulls">Request Feature</a>
+   
+  
+    <a href="https://github.com/Sharanupatil8/the-wild-oasis/pulls">Request Feature</a>
   </div>
 
   <hr>
@@ -27,8 +27,8 @@
 
 <img src="https://img.shields.io/badge/Status-Completed-success?style=flat" alt="Status" />
 
-<a href='https://www.twitter.com/CodePapa360' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/@CodePapa360-100000?style=for-the-badge&logo=Twitter&logoColor=00C9F7&labelColor=3F3F3F&color=0092FA'/></a>
-<a href='https://www.linkedin.com/in/codepapa360' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/@CodePapa360-100000?style=for-the-badge&logo=LinkedIn&logoColor=00a0dc&labelColor=2F2F2F&color=0077b5'/></a>
+<a href='https://x.com/sharansp_' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/@CodePapa360-100000?style=for-the-badge&logo=Twitter&logoColor=00C9F7&labelColor=3F3F3F&color=0092FA'/></a>
+<a href='https://www.linkedin.com/in/sharan-p-00770713a/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/@CodePapa360-100000?style=for-the-badge&logo=LinkedIn&logoColor=00a0dc&labelColor=2F2F2F&color=0077b5'/></a>
 
 </div>
 
@@ -38,7 +38,7 @@ The Wild Oasis hotel management app is a full-featured React web application tha
 </p>
 
 <!-- Screenshot -->
-<a align="center" href="https://the-wild-oasis-alamin.vercel.app">
+<a align="center" href="https://the-wild-oasis-i7mu.vercel.app/dashboard">
 
 ![Screenshot](./public/thumbnail-preview.png)
 
@@ -172,10 +172,7 @@ npm run dev
 
 <b>👤 Sharan</b>
 
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+
 
 Feel free to contact me with any questions or feedback!
 
